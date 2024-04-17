@@ -49,8 +49,8 @@
                 user_trials < n_trials: give him another trial within
                 user_trials = n_trials: print('You Lose!')
 
-##Training2 From Zero Grad Course
-#Tic Tac Toe Project Description
+## Training2 From Zero Grad Course
+# Tic Tac Toe Project Description
 
  **`(1) Create Empty board (3x3):`**
 
@@ -70,6 +70,6 @@
 
  **`(6) Check if Someone wins >> Finish`**
 
-`**(5) Check Full Board >> Draw`**
+**`(5) Check Full Board >> Draw`**
 
-`**(6) Check if Someone wins >> Finish`**
+**`(6) Check if Someone wins >> Finish`**
