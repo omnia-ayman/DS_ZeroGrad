@@ -70,6 +70,6 @@
 
  **`(6) Check if Someone wins >> Finish`**
 
-(5) Check Full Board >> Draw
+`**(5) Check Full Board >> Draw`**
 
-(6) Check if Someone wins >> Finish
+`**(6) Check if Someone wins >> Finish`**
