@@ -1,7 +1,7 @@
 ## Training1 From Zero Grad Course
 
-Guissing-Game-with-python
+Titanic data analysis from kaggle
 
 ## Training2 From Zero Grad Course
-Tic Tac Toe Project Description
+
 
